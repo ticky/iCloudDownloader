@@ -25,4 +25,4 @@ class ConsoleIO {
             fputs("Error: \(message)\n", stderr)
         }
     }
-    }
+}

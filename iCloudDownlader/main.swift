@@ -19,6 +19,5 @@ if CommandLine.argc < 2 {
     else {
         downloader.downloadFile()
     }
-    
 }
 
